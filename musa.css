@@ -1,0 +1,297 @@
+.contenedor_original{
+
+
+    width: auto;
+    height: auto;
+    margin: 40px;
+    padding: 20px;
+
+}
+.frame_enter{
+    background:  #c3AECD;
+}
+
+.tema{
+    padding-top: 20px;
+    height: 30%;
+    display: flex;
+    background:  #c3AECD;
+}
+.tema1{
+    margin-top: 30px;
+}
+.left{
+
+    padding-left: 65px;
+    display: flex;
+    margin-left: 175px;
+}
+.left a{
+    font-weight: 500;
+    color: mediumpurple;
+    padding-left:30px;
+    list-style: none;
+    text-decoration:none;
+}
+
+.left li{
+    list-style: none;
+    padding-left: 20px;
+    color: mediumpurple;
+    text-decoration:none;
+}
+.tema{
+    list-style: none;
+    text-decoration:none;
+}
+
+.tema2 {
+    padding-left: 20px;
+}
+.tema1{
+    padding-right: 50px;
+}
+.tema3 btn btn-outline-dark{
+    padding-left: 65px;
+}
+.frame2_imagen{
+    height: 500px;
+    background-image: url("images/set-virtual.png");
+}
+.frame_right_ima img{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.contenedor3{
+
+    display: flex;
+}
+.cuadrados{
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+    background:white;
+}
+.cuadrados h3{
+    text-align: center;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.cuadrados h6{
+
+}
+.cuadrados h4{
+    text-align: center;
+    color: #c3AECD;
+}
+.frame3_left{
+    background-image: url("images/Pastillas.png");
+}
+.container2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fram3 h3{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #6138f6;
+}
+.fram3{
+    background: #c3AECD;
+}
+.text_right h6{
+    padding-left: 20px;
+}
+.text_right h5{
+    padding-left: 20px;
+    color: #6138f6;
+}
+.scoll1{
+    display: flex;
+}
+
+.scroll2 {
+    width: 280px !important;
+    height: 700px;
+
+    background-image: url("images/En vivo 2.png");
+}
+.scroll1{
+    margin-left: 20px;
+    width:250px !important;
+    height: 700px;
+    background-image: url("images/En vivo 1.png");
+
+}
+.scoll1 h5{
+    margin-top: 30px;
+color: #6138f6;
+    padding-left: 10px;
+}
+.informacion h6{
+    padding-top:290px;
+}
+.scroll3{
+    width:280px !important;
+
+
+    height:700px;
+    background-image: url("images/En vivo 3.png");
+
+}
+.scroll4{
+    width: 260px !important;
+
+    height: 700px;
+
+    background-image: url("images/En vivo 4.png");
+
+}
+.nombre h5{
+
+    padding-left: 0px;
+    color: black;
+    display: flex;
+}
+.nombre1 h5{
+    padding-left: 0px;
+    color: black;
+    display: flex;
+    padding-top: 18px;
+}
+.informacion h5{
+    padding-top: 0px;
+}
+
+.btn btn-primary btn-lg{
+    height: 10px;
+
+}
+.informacion1 h6{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.frame_text{
+    background: #c3AECD;
+}
+.text_frame h5{
+    padding-left: 20px;
+    color: #6138f6;
+}
+.text_frame h6{
+    padding-left: 20px;
+}
+.fram5{
+    background: #c3AECD;
+}
+.frame4 {
+    background: #c3AECD;
+}
+
+.fram4_sub{
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-left: 20px;
+
+    background: #28325b;
+}
+.fram4_sub h6{
+    color: white;
+}
+.fram41_sub{
+    border-radius: 30px;
+    padding-top: 10px;
+    margin-left: 20px;
+    background: deepskyblue;
+}
+
+.fram41_sub h6{
+    color:   #28325b;
+}
+.frame4_imagenes{
+    background: #c3AECD;
+    padding-left: 30px;
+    height: 300px;
+}
+.container4{
+    margin-left: 60px;
+}
+.imagen1{
+    margin-left: 50px;
+    border-radius: 30px;
+    background: snow;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.imagen1 img{
+    border-radius: 100px;
+}
+
+.imagen2 img{
+    border-radius: 100px;
+}
+
+.imagen3 img{
+    border-radius: 100px;
+}
+.imagen2{
+    margin-bottom: 30px;
+    margin-left: 50px;
+    border-radius: 30px;
+    background: snow;
+    padding-left: 10px;
+}
+.imagen3{
+    margin-bottom: 30px;
+    margin-left:50px !important;
+    border-radius: 30px;
+    background: snow;
+    padding-left: 20px;
+}
+
+.text1 h5{
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.text1{
+    padding: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+.frame8{
+    white:auto;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 50px;
+    background: #c3AECD;
+}
+.frame6{
+    margin-bottom: 0px !important;
+    background: #c3AECD;
+}
+.adios{
+
+
+    background: #00DFBE;
+
+
+    height: 100px;
+    background-image: url("images/musa.png");
+
+}
+.adios img{
+    left: 50%;
+    top: 50%;
+    margin-left: 480px;
+
+
+}
+@media (min-width: 768px){
+
+
+    .scroll3  {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}
